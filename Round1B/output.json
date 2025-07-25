@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "input_documents": [
+      "data/PDFs/South of France - Cities.pdf",
+      "data/PDFs/South of France - Cuisine.pdf",
+      "data/PDFs/South of France - History.pdf",
+      "data/PDFs/South of France - Restaurants and Hotels.pdf",
+      "data/PDFs/South of France - Things to Do.pdf",
+      "data/PDFs/South of France - Tips and Tricks.pdf",
+      "data/PDFs/South of France - Traditions and Culture.pdf"
+    ],
+    "challenge_id": "round_1b_002",
+    "test_case_name": "travel_planner",
+    "description": "France Travel",
+    "processing_timestamp": "2025-07-25 12:19:05.641524"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "section_text": "Comprehensive Guide to Restaurants and Hotels in the South of France \nIntroduction \nThe South of France, known for its stunning landscapes, rich cultural heritage, and exquisite \ncuisine, is a dream destination for travelers. From the glamorous beaches of the French \nRiviera to the charming villages of Provence, this region o\ufb00ers a diverse array of experiences. \nWhether you're looking for budget-friendly options, family-friendly spots, upscale dining, or \nluxurious experiences, this guide will help you find the perfect restaurants and hotels for your \ntrip."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 14,
+      "section_text": "Conclusion \nThe South of France o\ufb00ers a wide range of dining and accommodation options to suit every \nbudget and preference. Whether you're looking for budget-friendly eateries, family-friendly \nspots, upscale dining, or luxurious experiences, this guide will help you find the perfect places \nto eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming \nvillages of Provence, the South of France promises an unforgettable travel experience. Bon \nvoyage!"
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 13,
+      "section_text": "\u2022 \nH\u00f4tel M\u00e9tropole Monte-Carlo (Monaco): A luxurious hotel o\ufb00ering opulent rooms, a \nworld-class spa, and several Michelin-starred restaurants. The refined elegance and \nexceptional service make it a top choice for luxury travelers."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "section_text": "Luxurious Hotels \n\u2022 \nGrand-H\u00f4tel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxurious \nhotel set on 7 hectares of Mediterranean gardens, o\ufb00ering elegant rooms, a spa, and a \nprivate beach. The exclusive setting and world-class amenities make it a top choice for \nluxury travelers. \n\u2022 \nH\u00f4tel de Paris Monte-Carlo (Monaco): A luxurious hotel located in the heart of \nMonaco, o\ufb00ering opulent rooms, a world-class spa, and several Michelin-starred \nrestaurants. The historic grandeur and exceptional service make it a premier \ndestination. \n\u2022 \nCh\u00e2teau Saint-Martin & Spa (Vence): A luxurious hotel set in a historic ch\u00e2teau, \no\ufb00ering elegant rooms, a Michelin-starred restaurant, and a world-class spa. The \ntranquil setting and luxurious amenities make it a perfect getaway. \n\u2022 \nAirelles Ch\u00e2teau de la Messardi\u00e8re (Saint-Tropez): A luxurious hotel set in a historic \nch\u00e2teau, o\ufb00ering elegant rooms, beautiful gardens, and stunning views of the \nMediterranean. The refined ambiance and top-tier services make it a standout choice \nfor luxury accommodations. \n\u2022 \nH\u00f4tel du Cap-Eden-Roc (Antibes): A legendary hotel o\ufb00ering luxurious rooms, a \nprivate beach, and a world-class spa. The stunning location and impeccable service \nmake it a favorite among celebrities and discerning travelers. \n\u2022 \nLa R\u00e9serve Ramatuelle (Ramatuelle): A luxurious hotel o\ufb00ering elegant rooms, a spa, \nand breathtaking views of the Mediterranean. The serene setting and exceptional \nservice make it a top choice for a relaxing retreat. \n\u2022 \nVilla La Coste (Le Puy-Sainte-R\u00e9parade): A luxurious hotel set in a vineyard, o\ufb00ering \nelegant rooms, a spa, and a Michelin-starred restaurant. The artistic ambiance and \nworld-class amenities make it a unique and memorable stay. \n\u2022 \nH\u00f4tel Hermitage Monte-Carlo (Monaco): A luxurious hotel o\ufb00ering opulent rooms, a \nworld-class spa, and several fine dining options. The historic charm and exceptional \nservice make it a premier destination in Monaco. \n\u2022 \nLe Byblos (Saint-Tropez): A luxurious hotel o\ufb00ering elegant rooms, a spa, and a vibrant \nnightlife scene. The glamorous setting and top-notch amenities make it a favorite \namong the jet set."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_text": "Upscale Hotels \n\u2022 \nHotel Negresco (Nice): A historic five-star hotel located on the Promenade des \nAnglais, o\ufb00ering luxurious rooms and exceptional service. The opulent decor and \nprime location make it a landmark in Nice. \n\u2022 \nInterContinental Marseille - Hotel Dieu (Marseille): A luxurious hotel located in a \nbeautifully restored 18th-century building, o\ufb00ering stunning views of the Old Port and \nthe city. The elegant rooms and top-notch amenities make it a standout choice. \n\u2022 \nHotel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette, \no\ufb00ering elegant rooms, a private beach, and a Michelin-starred restaurant. The \nglamorous setting and high-end services make it a favorite among celebrities. \n\u2022 \nLa Bastide de Gordes (Gordes): A luxurious hotel located in a historic building, \no\ufb00ering elegant rooms, beautiful gardens, and stunning views of the Luberon Valley. \nThe refined decor and serene atmosphere make it a perfect retreat. \n\u2022 \nH\u00f4tel Barri\u00e8re Le Majestic (Cannes): A luxurious hotel located on the Boulevard de la \nCroisette, o\ufb00ering elegant rooms, a private beach, and a Michelin-starred restaurant. \nThe glamorous setting and high-end services make it a favorite among celebrities. \n\u2022 \nH\u00f4tel du Cap-Eden-Roc (Antibes): A luxurious hotel located on the Boulevard de la \nCroisette, o\ufb00ering elegant rooms, a private beach, and a Michelin-starred restaurant. \nThe glamorous setting and high-end services make it a favorite among celebrities. \n\u2022 \nH\u00f4tel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious hotel located on the \nBoulevard de la Croisette, o\ufb00ering elegant rooms, a private beach, and a Michelin-\nstarred restaurant. The glamorous setting and high-end services make it a favorite \namong celebrities. \n\u2022 \nH\u00f4tel Le Negresco (Nice): A luxurious hotel located on the Boulevard de la Croisette, \no\ufb00ering elegant rooms, a private beach, and a Michelin-starred restaurant. The \nglamorous setting and high-end services make it a favorite among celebrities. \n\u2022 \nH\u00f4tel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette, \no\ufb00ering elegant rooms, a private beach, and a Michelin-starred restaurant. The \nglamorous setting and high-end services make it a favorite among celebrities. \n\u2022 \nH\u00f4tel de Paris (Monaco): A luxurious hotel located on the Boulevard de la Croisette, \no\ufb00ering elegant rooms, a private beach, and a Michelin-starred restaurant. The \nglamorous setting and high-end services make it a favorite among celebrities."
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "refined_text": " The South of France is known for its stunning landscapes, rich cultural heritage, and exquisite cuisine . This guide will help you find the perfect restaurants and hotels for your trip .",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "persona_task_context": "Travel Planner: Plan a trip of 4 days for a group of 10 college friends."
+    },
+    {
+      "refined_text": " The South of France o\ufb00ers a wide range of dining and accommodation options to suit every budget and preference . From the vibrant cities of Nice and Marseille to the charming villages of Provence, it offers an unforgettable travel experience .",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 14,
+      "persona_task_context": "Travel Planner: Plan a trip of 4 days for a group of 10 college friends."
+    },
+    {
+      "refined_text": " H\u00f4tel M\u00e9tropole Monte-Carlo has several Michelin-starred restaurants . The refined elegance and exceptional service make it a top choice for luxury travelers .",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 13,
+      "persona_task_context": "Travel Planner: Plan a trip of 4 days for a group of 10 college friends."
+    },
+    {
+      "refined_text": " The exclusive setting and world-class amenities make it a top choice for luxury travelers . The historic grandeur and exceptional service make it premier \u00a0destination. The historic charm and exceptional  service make Monaco a premier destination in Monaco .",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 12,
+      "persona_task_context": "Travel Planner: Plan a trip of 4 days for a group of 10 college friends."
+    },
+    {
+      "refined_text": " Hotel Negresco is a historic five-star hotel located on the Promenade des  \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Anglais . The opulent decor and  prime location make it a landmark in Nice . Hotel Martinez is a luxurious hotel on the Boulevard de la Croisette .",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "persona_task_context": "Travel Planner: Plan a trip of 4 days for a group of 10 college friends."
+    }
+  ]
+}
